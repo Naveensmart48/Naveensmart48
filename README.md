@@ -28,6 +28,6 @@ Software Engineer @ Zoho Corporation
 
 ![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumar-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/NaveenKumarprogrammer?ext=contest&theme=dark)](https://leetcode.com/u/thisismenaveenkumar/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/u/thisismenaveenkumar?ext=contest&theme=dark)](https://leetcode.com/u/thisismenaveenkumar/)
 
 [![NaveenKumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveenKumar-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
