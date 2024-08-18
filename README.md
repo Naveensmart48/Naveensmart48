@@ -37,7 +37,5 @@ Software Engineer
 </div>
 
 
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveensmart48&show_icons=true&theme=dark)](https://github.com/Naveensmart48)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/thisismenaveenkumar?ext=contest&theme=dark)](https://leetcode.com/u/thisismenaveenkumar/)
 
