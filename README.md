@@ -37,5 +37,4 @@ Software Engineer
 </div>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/thisismenaveenkumar?ext=contest&theme=dark)](https://leetcode.com/u/thisismenaveenkumar/)
 
