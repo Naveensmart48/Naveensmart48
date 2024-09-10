@@ -5,7 +5,7 @@ Software Engineer
 - 🔭 Here's my **[portfolio]**(https://naveensmart48.github.io/Naveen_Portfolio/)                                                 
 - 🎓 **Experience:** Experienced Software Developer Intern
 - 🎓 **Certifications:** Certified in Automation Anywhere
-- 🔍 **Current Focus:** Actively seeking job opportunities
+- 🔍 **Current Focus:** Actively focus on Open Source opportunities
 - 📚 **Published Research Works:** 2 papers published in IEEE
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:naveenkumarrv48@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naveenkumarrv/)
